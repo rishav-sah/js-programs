@@ -1,0 +1,37 @@
+Sure! Here are some JavaScript problems to help you refresh your coding skills:
+
+Problem 1:
+Write a function that takes an array of numbers as input and returns the sum of all the positive numbers in the array.
+
+Problem 2:
+Implement a function that takes a string as input and returns the reverse of the string.
+
+Problem 3:
+Write a function that takes an array of strings as input and returns a new array with the lengths of the strings.
+
+Problem 4:
+Implement a function that takes a number as input and returns true if the number is prime, and false otherwise.
+
+Problem 5:
+Write a function that takes a sorted array of numbers and a target number, and returns the index of the target number in the array. If the target number is not found, return -1.
+
+Problem 6:
+Implement a function that takes an array of numbers and returns a new array with only the unique numbers from the original array. The order of the numbers in the new array should be the same as in the original array.
+
+Problem 7:
+Write a function that takes a sentence as input and returns the word count. A word is defined as a sequence of non-space characters.
+
+Problem 8:
+Implement a function that takes an array of numbers and returns the second smallest number in the array.
+
+Problem 9:
+Write a function that takes a string as input and returns true if it is a palindrome, and false otherwise. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward.
+
+Problem 10:
+Implement a function that takes two arrays of numbers as input and returns a new array with the unique numbers from both arrays. The order of the numbers in the new array should be the same as in the input arrays.
+
+These problems cover various concepts in JavaScript, such as array manipulation, string manipulation, loops, conditionals, and functions. Try to solve them on your own, and feel free to ask for help or solutions if you get stuck. Good luck with your interview preparation!
+
+
+
+
